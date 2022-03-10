@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\fizceramics"
+		},
+		{
+			"path": "..\\..\\zeplin project"
+		},
+		{
+			"path": "..\\..\\wiki deneme"
+		},
+		{
+			"path": "..\\..\\gwyn-nft-marketplace-homepage-2021-12-09-17-07-07-utc"
+		},
+		{
+			"path": "..\\..\\imranbarkod"
+		},
+		{
+			"path": "..\\..\\weather api"
+		},
+		{
+			"path": "..\\..\\js-cart-setup-master"
+		},
+		{
+			"path": "..\\..\\my-shopping-cart-deneme"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather api"
+	}
+}
